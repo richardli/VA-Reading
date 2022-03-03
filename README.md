@@ -10,7 +10,7 @@
 + [Bayesian hierarchical factor regression models to infer cause of death from verbal autopsy data](https://doi.org/10.1111/rssc.12468), 2021, JRSS-C
 + [Bayesian factor models for probabilistic cause of death assessment with verbal autopsies](https://projecteuclid.org/euclid.aoas/1587002673), 2020, AOAS
 + [Using Bayesian latent Gaussian graphical models to infer symptom associations in verbal autopsies](https://projecteuclid.org/euclid.ba/1569290444), 2019, Bayesian Analysis 
-+ [Multi-task learning for interpretable cause of death classification using key phrase prediction](https://aclanthology.org/W18-2302/), BioNLP, 2018
++ [Multi-task learning for interpretable cause of death classification using key phrase prediction](https://aclanthology.org/W18-2302/), 2018, BioNLP
 + [An integrated approach to processing WHO-2016 verbal autopsy data: the InterVA-5 model](https://bmcmedicine.biomedcentral.com/articles/10.1186/s12916-019-1333-6), 2019, BMC Medicine
 + [Probabilistic cause-of-death assignment using verbal autopsies](https://amstat.tandfonline.com/doi/abs/10.1080/01621459.2016.1152191), 2016, JASA
 + [Naive Bayes classifiers for verbal autopsies: comparison to physician-based classification for 21,000 child and adult deaths](https://link.springer.com/article/10.1186/s12916-015-0521-2), 2015, BMC Medicine
@@ -19,9 +19,9 @@
 + [Verbal autopsy methods with multiple causes of death](https://projecteuclid.org/journals/statistical-science/volume-23/issue-1/Verbal-Autopsy-Methods-with-Multiple-Causes-of-Death/10.1214/07-STS247.full), 2008, Statistical Science
 
 #### Data, findings, and background
++ [The WHO 2016 verbal autopsy instrument: An international standard suitable for automated analysis by InterVA, InSilicoVA, and Tariff 2.0](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1002486), 2018, PLOS Medicine
 + [Population Health Metrics Research Consortium gold standard verbal autopsy validation study: design, implementation, and development of analysis datasets](https://pophealthmetrics.biomedcentral.com/articles/10.1186/1478-7954-9-27), 2011, Population Health Metrics
 + [Verbal Autopsy: methods in transition](https://academic.oup.com/epirev/article/32/1/38/493908?login=false), 2010, Epidemiologic Reviews
-+ [The WHO 2016 verbal autopsy instrument: An international standard suitable for automated analysis by InterVA, InSilicoVA, and Tariff 2.0](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1002486), 2018, PLOS Medicine
 
 
 ### Related areas
@@ -37,8 +37,8 @@
 + [Latent Dirichlet Allocation](https://www.jmlr.org/papers/volume3/blei03a/blei03a.pdf), 2003, JMLR 
 
 #### Psychometrics
-+ [Regularized Latent Class Analysis with Application in Cognitive Diagnosis](https://link.springer.com/article/10.1007/s11336-016-9545-6), Psychometrika, 2016
-+ [Latent Variable Selection for Multidimensional Item Response Theory Models via L1 Regularization](https://link.springer.com/article/10.1007/s11336-016-9529-6), Psychometrika, 2016
++ [Regularized Latent Class Analysis with Application in Cognitive Diagnosis](https://link.springer.com/article/10.1007/s11336-016-9545-6), 2016, Psychometrika
++ [Latent Variable Selection for Multidimensional Item Response Theory Models via L1 Regularization](https://link.springer.com/article/10.1007/s11336-016-9529-6), 2016, Psychometrika
 
 ### General Bayesian modeling
 + [Using Stacking to Average Bayesian Predictive Distributions](https://projecteuclid.org/journals/bayesian-analysis/volume-13/issue-3/Using-Stacking-to-Average-Bayesian-Predictive-Distributions-with-Discussion/10.1214/17-BA1091.full), 2018, Baysian Analysis
