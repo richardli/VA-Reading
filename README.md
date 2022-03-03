@@ -42,6 +42,6 @@
 
 ### General Bayesian modeling
 + [Using Stacking to Average Bayesian Predictive Distributions](https://projecteuclid.org/journals/bayesian-analysis/volume-13/issue-3/Using-Stacking-to-Average-Bayesian-Predictive-Distributions-with-Discussion/10.1214/17-BA1091.full), 2018, Baysian Analysis
-+ [https://pubmed.ncbi.nlm.nih.gov/31210707/](https://www.tandfonline.com/doi/abs/10.1080/01621459.2014.983233?journalCode=uasa20), 2015, JASA
++ [Bayesian Factorizations of Big Sparse Tensors](https://www.tandfonline.com/doi/abs/10.1080/01621459.2014.983233?journalCode=uasa20), 2015, JASA
 + [Nonparametric Bayes modeling of multivariate categorical data](https://www.tandfonline.com/doi/abs/10.1198/jasa.2009.tm08439), 2009, JASA
  
