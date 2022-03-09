@@ -4,6 +4,15 @@ This is a reading list for those interested in analyzing verbal autopsy (VA) dat
 
 The list also includes papers from related research areas where similar methodological problems exist, as well as papers on general modeling/computation topics that VA algorithms could potentially benefit from. This page is continuously updated to add new VA work and related areas.
 
+Table of contents
+* [Verbal autopsy literature](#verbal-autopsy)
+  * [Cause-of-death assignment methods](#cause-of-death-assignment-methods)
+  * [Data, findings, and background](#data-and-background)
+* [Related areas](#related-areas)
+  * [Disease modeling](#disease-modeling) 
+  * [Text classification]($text-classification)
+  * [Psychometrics](#psychometrics)
+* [General modeling and computation](#general-modeling-and-computation)
 
 ### Verbal autopsy
 
@@ -23,7 +32,7 @@ The list also includes papers from related research areas where similar methodol
 + Strengthening standardised interpretation of verbal autopsy data: the new InterVA-4 tool. [Glocal Health Action, 2012](https://www.tandfonline.com/doi/full/10.3402/gha.v5i0.19281)
 + Verbal autopsy methods with multiple causes of death. [Statistical Science, 2008](https://projecteuclid.org/journals/statistical-science/volume-23/issue-1/Verbal-Autopsy-Methods-with-Multiple-Causes-of-Death/10.1214/07-STS247.full)
 
-#### Data, findings, and background
+#### Data and background
 + Verbal Autopsy Interview Standardization Study: A report from the field. [Book chapter, 2020](https://oxford.universitypressscholarship.com/view/10.1093/oso/9780198862437.001.0001/oso-9780198862437-chapter-11)
 + The WHO 2016 verbal autopsy instrument: An international standard suitable for automated analysis by InterVA, InSilicoVA, and Tariff 2.0. [PLOS Medicine, 2018](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1002486)
 + Population Health Metrics Research Consortium gold standard verbal autopsy validation study: design, implementation, and development of analysis datasets. [Population Health Metrics, 2011](https://pophealthmetrics.biomedcentral.com/articles/10.1186/1478-7954-9-27)
