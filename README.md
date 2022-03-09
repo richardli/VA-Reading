@@ -1,5 +1,10 @@
 ## Reading list for statisticians working on modeling verbal autopsy data
 
+This is a reading list for those interested in analyzing verbal autopsy (VA) data. It is by no means a complete collection of work in the VA community, but only a subset of papers that are potentially useful for statisticians. The list is is intended for new researchers starting to work with [the openVA team](https://openva.net/) to catch up on background literature.
+
+The list also includes papers from related research areas where similar methodological problems exist, as well as papers on general modeling/computation topics that VA algorithms could potentially benefit from. This page is continuously updated to add new VA work and related areas.
+
+
 ### Verbal autopsy
 
 #### Cause-of-death assignment methods
