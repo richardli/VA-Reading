@@ -17,8 +17,11 @@ Table of contents
 ### Verbal autopsy
 
 #### Cause-of-death assignment methods
-+ Tree-informed Bayesian multi-source domain adaptation: cross-population probabilistic cause-of-death assignment using verbal autopsy. [Preprint, 2021](https://arxiv.org/abs/2112.10978)
-+ Bayesian nested latent class models for cause-of-death assignment using verbal autopsies across multiple domains. [Preprint, 2021](https://arxiv.org/abs/2112.12186)
++ From Narratives to Numbers: Valid Inference Using Language Model Predictions from Verbal Autopsy Narratives [Preprint, 2024](https://arxiv.org/abs/2404.02438)
++ Tree-informed Bayesian multi-source domain adaptation: cross-population probabilistic cause-of-death assignment using verbal autopsy. [Biosstatistics, 2024](https://arxiv.org/abs/2112.10978)
++ Bayesian nested latent class models for cause-of-death assignment using verbal autopsies across multiple domains. [AOAS, 2024](https://arxiv.org/abs/2112.12186)
++ Bayesian Active Questionnaire Design for Cause-of-Death Assignment Using Verbal Autopsies [CHIL, 2023](https://arxiv.org/abs/2302.08099)
++ Correcting for verbal autopsy misclassification bias in cause-specific mortality estimates. [AJTMH](https://pmc.ncbi.nlm.nih.gov/articles/PMC10160858/)
 + Generalized bayes quantification learning under dataset shift. [JASA, 2021](https://www.tandfonline.com/doi/full/10.1080/01621459.2021.1909599)
 + Regularized Bayesian transfer learning for population-level etiological distributions, [Biostatistics, 2021](https://academic.oup.com/biostatistics/article/22/4/836/5732874?login=true)
 + Bayesian hierarchical factor regression models to infer cause of death from verbal autopsy data. [JRSSC, 2021](https://doi.org/10.1111/rssc.12468)
@@ -40,6 +43,22 @@ Table of contents
 
 
 ### Related areas
+#### Algorithmic Dementia Classification 
++ Performance of probable dementia classification in a European multi‑country survey [Sci Report, 2024](https://www.nature.com/articles/s41598-024-56734-7.pdf)
++ Invited Commentary: Algorithmic Dementia Classification—Promises and Challenges [AJE, 2023](https://doi.org/10.1093/aje/kwad003)
++ Comparison of Methods for Algorithmic Classification of Dementia Status in the Health and Retirement Study [Epidemiology, 2019](https://pmc.ncbi.nlm.nih.gov/articles/PMC6369894/)
++ Learning From Clinical Consensus Diagnosis in India to Facilitate Automatic Classification of Dementia: Machine Learning Study [JMIR Mental Health, 2021](https://pmc.ncbi.nlm.nih.gov/articles/PMC8145077/)
++ Factor structure of the Harmonized Cognitive Assessment Protocol neuropsychological battery in the Health and Retirement Study [2024](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/8910F8A75C953C1F42747AEC06659E0C/S135561772300019Xa.pdf/factor-structure-of-the-harmonized-cognitive-assessment-protocol-neuropsychological-battery-in-the-health-and-retirement-study.pdf)
++ [More from HCAP website](https://hcap.isr.umich.edu/publications/)
+
+#### Gabage code redistribution
++ Ill-defined causes of death in Brazil: a redistribution method based on the investigation of such causes. [2014](https://pmc.ncbi.nlm.nih.gov/articles/PMC4181094/)
++ Application of a modified garbage code algorithm to estimate cause-specific mortality and years of life lost in Korea. [2016](https://pubmed.ncbi.nlm.nih.gov/27775249/).
++ Assessment of a regression method to reclassify deaths attributable to heart failure.[2017](https://www.cpc.unc.edu/resources/publications/bib/9685/)
++ Improving the use of mortality data in public health: a comparison of garbage code redistribution models. [AJPH, 2020](https://pubmed.ncbi.nlm.nih.gov/31855478/).
++ Redistribution of garbage codes to underlying causes of death: a systematic analysis on italy and a comparison with most populous western european countries based on the global burden of disease study 2019. [European Journal of Public Health, 2022](https://pubmed.ncbi.nlm.nih.gov/35061890/).
++ Improving the usefulness of US mortality data: new methods for reclassification of underlying cause of death [PHM, 2016](https://pophealthmetrics.biomedcentral.com/articles/10.1186/s12963-016-0082-4)
+
 
 #### Disease modeling
 + Integrating Sample Similarities into Latent Class Analysis: A Tree-Structured Shrinkage Approach. [Biometrics, 2021](https://onlinelibrary.wiley.com/doi/10.1111/biom.13580)
