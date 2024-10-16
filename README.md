@@ -43,6 +43,17 @@ Table of contents
 
 
 ### Related areas
+
+#### Latent Class Models
++ A Blockwise Mixed Membership Model for Multivariate Longitudinal Data: Discovering Clinical Heterogeneity and Identifying Parkinson’s Disease Subtypes [Preprint, 2024](https://arxiv.org/pdf/2410.01235?)
++ Degree-heterogeneous Latent Class Analysis for High-dimensional Discrete Data [Preprint, 2024](https://arxiv.org/pdf/2402.18745)
++ A tensor-EM method for large-scale latent class analysis with binary responses [Psychometrika, 2024](https://link.springer.com/article/10.1007/s11336-022-09887-1)
++ Bayesian Pyramids: Identifiable Multilayer Discrete Latent Structure Models for Discrete Data [JRSSB, 2023](https://arxiv.org/pdf/2101.10373)
++ Integrating Sample Similarities into Latent Class Analysis: A Tree-Structured Shrinkage Approach. [Biometrics, 2021](https://onlinelibrary.wiley.com/doi/10.1111/biom.13580)
++ Probabilistic Cause-of-disease Assignment using Case-control Diagnostic Tests: A Hierarchcial Bayesian Latent Variable Regression Approach. [Statistics in Medicine, 2020](https://onlinelibrary.wiley.com/doi/10.1002/sim.8804)
++ A Bayesian Approach to Restricted Latent Class Models for Scientifically-Structured Clustering of Multivariate Binary Outcomes. [Biometrics, 2020](https://onlinelibrary.wiley.com/doi/full/10.1111/biom.13388)
+
+
 #### Algorithmic Dementia Classification 
 + Performance of probable dementia classification in a European multi‑country survey [Sci Report, 2024](https://www.nature.com/articles/s41598-024-56734-7.pdf)
 + Invited Commentary: Algorithmic Dementia Classification—Promises and Challenges [AJE, 2023](https://doi.org/10.1093/aje/kwad003)
@@ -59,11 +70,6 @@ Table of contents
 + Redistribution of garbage codes to underlying causes of death: a systematic analysis on italy and a comparison with most populous western european countries based on the global burden of disease study 2019. [European Journal of Public Health, 2022](https://pubmed.ncbi.nlm.nih.gov/35061890/).
 + Improving the usefulness of US mortality data: new methods for reclassification of underlying cause of death [PHM, 2016](https://pophealthmetrics.biomedcentral.com/articles/10.1186/s12963-016-0082-4)
 
-
-#### Disease modeling
-+ Integrating Sample Similarities into Latent Class Analysis: A Tree-Structured Shrinkage Approach. [Biometrics, 2021](https://onlinelibrary.wiley.com/doi/10.1111/biom.13580)
-+ Probabilistic Cause-of-disease Assignment using Case-control Diagnostic Tests: A Hierarchcial Bayesian Latent Variable Regression Approach. [Statistics in Medicine, 2020](https://onlinelibrary.wiley.com/doi/10.1002/sim.8804)
-+ A Bayesian Approach to Restricted Latent Class Models for Scientifically-Structured Clustering of Multivariate Binary Outcomes. [Biometrics, 2020](https://onlinelibrary.wiley.com/doi/full/10.1111/biom.13388)
 
 #### Text classification
 + Dynamic Topic Models. [ICML, 2006](https://mimno.infosci.cornell.edu/info6150/readings/dynamic_topic_models.pdf)
